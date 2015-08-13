@@ -1,2 +1,2 @@
-# data-science-from-scratch
+# Data Science From Scratch
 Examples from the Book: "Data Sciene From Scratch"
